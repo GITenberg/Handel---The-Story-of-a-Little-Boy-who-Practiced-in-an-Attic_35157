@@ -1,0 +1,28 @@
+_repo: Handel---The-Story-of-a-Little-Boy-who-Practiced-in-an-Attic_35157
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35157-h/images/cover.png
+creator:
+  author:
+    agent_name: Tapper, Thomas
+    birthdate: 1864
+    deathdate: 1958
+    gutenberg_agent_id: '5481'
+    url: http://www.gutenberg.org/2009/agents/5481
+description: ''
+gutenberg_bookshelf: Child's Own Book of Great Musicians
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35157'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Composers -- Biography -- Juvenile literature'
+- !lcc 'ML'
+- !lcsh 'Handel, George Frideric, 1685-1759 -- Juvenile literature'
+title: 'Handel : The Story of a Little Boy who Practiced in an Attic'
+url: http://www.gutenberg.org/ebooks/35157
